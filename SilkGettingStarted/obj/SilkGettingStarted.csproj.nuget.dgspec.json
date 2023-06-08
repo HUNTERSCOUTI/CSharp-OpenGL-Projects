@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zilas\\Source\\Repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj": {}
+    "C:\\Users\\zilas\\source\\repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zilas\\Source\\Repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj": {
+    "C:\\Users\\zilas\\source\\repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zilas\\Source\\Repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj",
+        "projectUniqueName": "C:\\Users\\zilas\\source\\repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj",
         "projectName": "SilkGettingStarted",
-        "projectPath": "C:\\Users\\zilas\\Source\\Repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj",
+        "projectPath": "C:\\Users\\zilas\\source\\repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj",
         "packagesPath": "C:\\Users\\zilas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zilas\\Source\\Repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\obj\\",
+        "outputPath": "C:\\Users\\zilas\\source\\repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

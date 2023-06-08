@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IlFUwJza6Jp0NFr0pgUb7VLlAPjNXDELp4BxVhSHw6Le5frIVzdD+njTYYgm2TgrGS7HRTonLhkLZTH58ud94A==",
+  "dgSpecHash": "Qhwk+0rbp4pcFUot17wNcRUhmQ1KsLXDe6UBfmj7SEhzeWLwg0l+aV+OSkhVr6f76kbvFx9xp55o8wWJOpGkbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zilas\\Source\\Repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj",
+  "projectFilePath": "C:\\Users\\zilas\\source\\repos\\CSharp-OpenGL-Projects\\SilkGettingStarted\\SilkGettingStarted.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zilas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\zilas\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
