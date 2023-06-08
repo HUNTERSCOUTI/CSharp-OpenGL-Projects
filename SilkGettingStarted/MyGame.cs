@@ -51,18 +51,16 @@ namespace SilkGettingStarted
         private static void Window_Load()
         {
             Gl = _window.CreateOpenGL();
-            Console.WriteLine("LOAD " + DateTime.Now);
         }
         //Runs when a frame needs to be rendered
         private void Window_Render(double deltaTime)
         {
             Gl.ClearColor(0.5f, 0.5f, 0.5f, 1.0f);
             Gl.Clear(ClearBufferMask.ColorBufferBit);
-            Console.WriteLine("RENDER " + DateTime.Now);
         }
         private void _window_Update(double deltaTime)
         {
-            Console.WriteLine("UPDATE " + DateTime.Now);
+
         }
         private void KeyCap_KeyDown(IKeyboard keyReference, Key keyPressed, int keyNumber)
         {
